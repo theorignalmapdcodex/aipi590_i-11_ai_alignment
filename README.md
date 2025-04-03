@@ -1,1 +1,1 @@
-# aipi590_i-11_ai_alignmnet
+# aipi590_i-11_ai_alignment
